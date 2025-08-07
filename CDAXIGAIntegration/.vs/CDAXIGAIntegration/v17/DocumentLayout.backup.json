@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|c:\\users\\admin\\downloads\\cdaxigaintegration\\cdaxigaintegration\\functions\\modifyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|solutionrelative:cdaxigaintegration\\functions\\modifyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|c:\\users\\admin\\downloads\\cdaxigaintegration\\cdaxigaintegration\\models\\modifyuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|solutionrelative:cdaxigaintegration\\models\\modifyuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|c:\\users\\admin\\downloads\\cdaxigaintegration\\cdaxigaintegration\\dataaccess\\dataverseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|solutionrelative:cdaxigaintegration\\dataaccess\\dataverseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|c:\\users\\admin\\downloads\\cdaxigaintegration\\cdaxigaintegration\\models\\modifyuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|solutionrelative:cdaxigaintegration\\models\\modifyuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|c:\\users\\admin\\downloads\\cdaxigaintegration\\cdaxigaintegration\\dataaccess\\aaduseroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|solutionrelative:cdaxigaintegration\\dataaccess\\aaduseroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|c:\\users\\admin\\downloads\\cdaxigaintegration\\cdaxigaintegration\\businesslogic\\processmodifyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FEFCFA-F2DF-5541-3784-ABDE46607289}|CDAXIGAIntegration\\CDAXIGAIntegration.csproj|solutionrelative:cdaxigaintegration\\businesslogic\\processmodifyuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModifyUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\Models\\ModifyUserResponse.cs",
+              "RelativeDocumentMoniker": "CDAXIGAIntegration\\Models\\ModifyUserResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\Models\\ModifyUserResponse.cs",
+              "RelativeToolTip": "CDAXIGAIntegration\\Models\\ModifyUserResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:24:27.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModifyUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\Models\\ModifyUserRequest.cs",
+              "RelativeDocumentMoniker": "CDAXIGAIntegration\\Models\\ModifyUserRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\Models\\ModifyUserRequest.cs",
+              "RelativeToolTip": "CDAXIGAIntegration\\Models\\ModifyUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:24:26.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModifyUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\Functions\\ModifyUser.cs",
+              "RelativeDocumentMoniker": "CDAXIGAIntegration\\Functions\\ModifyUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\Functions\\ModifyUser.cs",
+              "RelativeToolTip": "CDAXIGAIntegration\\Functions\\ModifyUser.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwCEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T15:59:29.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataverseOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\DataAccess\\DataverseOperations.cs",
+              "RelativeDocumentMoniker": "CDAXIGAIntegration\\DataAccess\\DataverseOperations.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\DataAccess\\DataverseOperations.cs",
+              "RelativeToolTip": "CDAXIGAIntegration\\DataAccess\\DataverseOperations.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAtwDUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T15:41:23.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AADUserOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\DataAccess\\AADUserOperations.cs",
+              "RelativeDocumentMoniker": "CDAXIGAIntegration\\DataAccess\\AADUserOperations.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\DataAccess\\AADUserOperations.cs",
+              "RelativeToolTip": "CDAXIGAIntegration\\DataAccess\\AADUserOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T15:41:07.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProcessModifyUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\BusinessLogic\\ProcessModifyUser.cs",
+              "RelativeDocumentMoniker": "CDAXIGAIntegration\\BusinessLogic\\ProcessModifyUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\CDAXIGAIntegration\\CDAXIGAIntegration\\BusinessLogic\\ProcessModifyUser.cs",
+              "RelativeToolTip": "CDAXIGAIntegration\\BusinessLogic\\ProcessModifyUser.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T15:40:37.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
